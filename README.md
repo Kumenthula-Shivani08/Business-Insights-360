@@ -18,6 +18,25 @@ AtliQ Hardware sells electronics like PCs, mouse, and printers in many countries
 | **Excel**  | **Target**                  | Monthly sales targets                          |
 | **Excel**  | **Market_Share**            | Market share data of competitors               |
 
+## Business Metrics Terminologies:
+
+- Year to Date
+- Year to Go
+- Landing Estimates
+- Fiscal Year
+- Profit and Loss Statement
+- Pre Invoice / Post Invoice
+- Gross Price
+- Net Invoice Sale
+- Gross Margin
+- Net Sales
+- Net Profit
+- COGS - Cost of Goods Sold
+- Direct
+- Retailer
+- Distributors
+- Consumer
+
 # Power BI Features Implemented
 
 ## Data Exploration & Modeling
