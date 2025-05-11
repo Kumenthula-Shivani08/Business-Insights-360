@@ -52,17 +52,39 @@ AtliQ Hardware sells electronics like PCs, mouse, and printers in many countries
 ![Home Page Preview](https://github.com/Kumenthula-Shivani08/Attachments/blob/main/home.png)
 
 ## 💰 Finance View   
+- The dashboard provides a comprehensive view of financial performance for the year, compared to a benchmark.
+- It includes key metrics like Net Sales, Gross Margin, and Net Profit to evaluate business performance.
+- Monthly performance trends are displayed, highlighting both peaks and recovery points.
+- It offers a detailed Profit & Loss breakdown, comparing actual results to the benchmark.
+- Regional performance is analyzed, showing sales and growth across different regions.
+- The dashboard allows for dynamic filtering by benchmark, time range, region, country, and product categories.
+- Visualizations include charts and tables to show trends and performance over time.
+- The main takeaway is that while sales have increased, rising costs and operational expenses have impacted profitability.
+
+
 ![Finance View](https://github.com/Kumenthula-Shivani08/Attachments/blob/main/finance.png)
 
 ## 📈 Sales View  
+- Analyzes sales performance and profitability by customer and product.
+- Shows how different customers contribute to Net Sales and Gross Margin, helping to identify key revenue drivers.
+- Visual comparisons highlight key financial metrics such as sales, COGS, and gross margin.
+- Many customers have high sales but low profitability due to declining margins.
+- Top customers like Amazon and Atliq stores show strong sales but reduced gross margins.
+- Rising costs and deductions are affecting profitability, despite strong sales growth.
 
    ![Sales View](https://github.com/Kumenthula-Shivani08/Attachments/blob/main/sales.png)
 ## 📢 Marketing View  
+- Provides an overview of product and regional performance with a focus on sales, margins, and costs.
+- Highlights how each region performs in terms of sales and profitability.
+- Shows which product segments are performing well based on sales and gross margin.
+- Identifies products and regions that have strong sales but low profitability.
+- Visualizes the impact of operating expenses and cost of goods sold on overall margin.
+- Helps identify areas where profitability is declining despite strong sales.
+
 
    ![Marketing View](https://github.com/Kumenthula-Shivani08/Attachments/blob/main/marketing.png)
 
 ## 🚚 Supply Chain View   
-   Key metrics like **Forecast Accuracy** and **Risk Profiles** are tracked, enabling proactive supply chain optimization and risk management.
 
    ![Supply Chain View](https://github.com/Kumenthula-Shivani08/Attachments/blob/main/Supplychain.png)
 
